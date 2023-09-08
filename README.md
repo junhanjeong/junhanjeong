@@ -6,5 +6,5 @@
 ### Baek-Joon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junhan0217)](https://solved.ac/junhan0217/)
 
-### Code-Tree
-[![](https://banner.codetree.ai/v1/banner/junhan0217)](https://www.codetree.ai/profiles/junhan0217)
+### blog
+https://junhanjeong.github.io/
