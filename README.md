@@ -8,6 +8,7 @@
 
 ### blog
 https://junhanjeong.github.io/
+
 <img src="https://junhanjeong.github.io/images/2023-09-02-first/blog_logo_black_cut2.png" width="300" height="300"/>
 
 아직 실력이 많이 부족합니다. 꾸준히 공부해서 1~2주마다 확연한 성장을 하려고 노력하겠습니다.
