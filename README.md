@@ -1,24 +1,33 @@
-# NLP 도메인을 열심히 공부하고있는 정준한입니다.
-
-## 📌 소개
-- 인하대학교 컴퓨터공학과 3학년 1학기까지 수료 (현재 총 112학점 이수)
-- 총 학점 4.42/4.5 (전공 학점 4.5/4.5)
-- 대학원 진학을 목표로 NLP 도메인을 공부하고 있습니다.
-- 현재 네이버 부스트캠프 AI Tech 7기 진행중
-- 연구분야는 아직 정하지 못하였지만 (멀티모달, 에이전트, 경량화 등에 대해서 흥미롭지만 피상적으로만 알고있고 deep하게 공부해보지 못했습니다.) 앞으로 공부해나가면서 끌리는 분야로 선택할 계획입니다.
-- 기계공학과 -> 컴공 전과생이지만 그에 관계없이 더 열심히 해서 실력을 입증하겠습니다.
-
-## 🏆 성과 및 활동
-- **Innovation Academy Project**에서 총장상 수상 (YOLO 모델을 이용한 Object Detection)
-- **Dacon 대회** (HD현대 주관 선박 대기시간 예측 대회)에서 top 6에 들며 본선 진출
-- 네이버 부스트캠프 AI Tech 7기 NLP 도메인 진행중
-
-## 🔍 현재 목표
-- 논문 매일 1개씩 리뷰하기
-- 최신 트랜드 파악하기 (관심있는 연구분야 찾아보기)
-- Transformers 라이브러리 뜯어보며 구현능력 기르기
-
-## 🛠️ 능력
-- **구현 능력**: Huggingface Transformers 라이브러리 뜯어보며 공부중
-- **이론(논문)**: junhanjeong.github.io 에 꾸준히 논문 기록중
-- **관심분야**: 멀티모달, 경량화, 에이전트
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=c757d6&height=120&text=%20Junhan's%20Github&animation=&fontColor=000000&fontSize=40" />
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  저를 소개합니다! </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> NLP 및 LLM에 관심을 갖고 공부하고 있습니다.</li><li> AI 리서처 또는 엔지니어를 희망합니다.</li><li> 과거의 NLP 논문부터 최신 LLM 논문까지 간단히 훑어보고, 필요한 부분은 깊이 있게 탐구해 블로그에 정리하고 있습니다.</li><li> PyTorch, Hugging Face를 이용해 다수의 프로젝트를 진행한 경험이 있습니다. </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+          <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white">
+          <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white">
+          <br/></div>
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=https://the-gradient.ghost.io/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://the-gradient.ghost.io/"> </a>
+          </div>  <br> 
+    <div style="text-align: left;">  </div> 
+    </div>
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=junhanjeong&custom_title=junhan's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhanjeong&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
+          /> </div> 
+    </div>
+    
