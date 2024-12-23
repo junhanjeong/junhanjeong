@@ -21,12 +21,12 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://the-gradient.ghost.io/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://the-gradient.ghost.io/"> </a>
+    <div style="text-align: left;"> <a href=https://the-gradient.ghost.io/> <img src="https://img.shields.io/badge/Ghost-000000?style=flat&logo=Ghost&logoColor=white&link=https://the-gradient.ghost.io"> </a>
           </div>  <br> 
-    <div style="text-align: left;">  </div> 
+    <div style="text-align: left;">  </div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=junhanjeong&custom_title=junhan's Github Stat&bg_color=180,000000,&title_color=000000&text_color=000000"
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=junhanjeong&show_icons=true"
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junhanjeong&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
