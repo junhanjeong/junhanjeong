@@ -3,7 +3,7 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">  저를 소개합니다! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 인하대학교 컴퓨터공학과 재학 (학점 4.42/ 전공학점 4.5)</li><li> NLP 및 LLM에 관심을 갖고 공부하고 있습니다.</li><li> AI 리서처 또는 엔지니어를 희망합니다.</li><li> 과거의 NLP 논문부터 최신 LLM 논문까지 간단히 훑어보고, 필요한 부분은 깊이 있게 탐구해 블로그에 정리하고 있습니다.</li><li> PyTorch, Hugging Face를 이용해 다수의 프로젝트를 진행한 경험이 있습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 인하대학교 컴퓨터공학과 재학 (학점 4.42/ 전공학점 4.5)</li><li> NLP 및 LLM에 관심을 갖고 공부하고 있습니다.</li><li> AI 리서처를 희망하고 대학원 진학을 하여 연구하고 싶습니다. MLOps도 중요하지만, 연구를 위한 구현능력과 이론에 더 포커스를 맞추고 싶습니다.</li><li> 과거의 NLP 논문부터 최신 LLM 논문까지 간단히 훑어보고, 필요한 부분은 깊이 있게 탐구해 블로그에 정리하고 있습니다.</li><li> PyTorch, Hugging Face를 이용해 다수의 프로젝트를 진행한 경험이 있습니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
